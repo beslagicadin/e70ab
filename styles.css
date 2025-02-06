@@ -1,0 +1,193 @@
+/* Global Styles */
+.main {
+    background-color: #0d1d36;
+    color: #3c3c3c;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    border-radius: 20px;
+}
+
+/* Container Styles */
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Heading Styles */
+h1 {
+    margin: 0;
+}
+
+h1 span {
+    color: #f9cc0b;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2 a {
+    color: #0d1d36;
+    text-decoration: none;
+    background-color: #f9cc0b;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+h3 {
+    margin: 0;
+    color: #d3d3d3;
+}
+
+/* Section Styles */
+.section {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 20px 10%;
+    padding: 15px 5%;
+    text-align: center;
+    position: relative;
+}
+
+.section p {
+    font-size: 20px;
+}
+
+.section h3 a {
+    color: #0d1d36;
+    text-decoration: none;
+    background-color: #f9cc0b;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.club-affiliation p {
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 15px;
+}
+
+.flex-container {
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    margin: 20px 10%;
+    padding: 20px;
+}
+
+.flex-container a {
+    margin-right: 20px; /* Space between logos */
+}
+
+.flex-container img {
+    height: 150px; /* Adjust height as needed */
+    border-radius: 10px; /* Optional: Rounded corners */
+}
+
+.interests, .awards {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px 10%;
+    padding: 10px 20px;
+}
+
+.interests ul, .awards ul {
+    font-size: 18px;
+    list-style: none;
+    padding: 0;
+}
+
+.interests ul li, .awards ul li {
+    margin-bottom: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.awards ul {
+    display: inline;
+    text-align: center;
+}
+
+.awards img {
+    width: 60%;
+}
+
+.last-qso {
+    background-color: #d3d3d3;
+    border-radius: 10px;
+    margin: 20px 10%;
+    padding: 20px;
+    text-align: center;
+}
+
+.last-qso iframe {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    max-width: 100%;
+    border: none;
+}
+
+.contact {
+    color: #d3d3d3;
+    font-size: 18px;
+    margin: 30px 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.contact a {
+    color: #f9cc0b;
+    text-decoration: none;
+}
+#t_bio.biodiv {background-color:#FFFFFF}
+.radio-club-container {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    margin: 30px 0;
+    border-bottom: 1px solid #ddd; /* Optional: Border for overall container */
+    padding-bottom: 10px; /* Space below the container */
+}
+
+.radio-club-item {
+    text-align: center;
+    margin: 0 20px; /* Space between items */
+    flex: 1; /* Ensure items take up equal space */
+}
+
+.radio-club-item p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #f9cc0b; /* Adjust color as needed */
+    margin-bottom: 10px; /* Space between title and image */
+}
+
+.radio-club-item a img {
+    max-height: 150px; /* Adjust height as needed */
+    width: auto; /* Maintain aspect ratio */
+    border-radius: 10px; /* Optional: Rounded corners */
+}
+
+.separator {
+    width: 1px; /* Width of the separator line */
+    background-color: #ddd; /* Color of the separator line */
+    height: 100%; /* Stretch to match height of items */
+}
+.radio-club-item a img {
+    height: 150px; /* Adjust height as needed */
+    border-radius: 10px; /* Optional: Rounded corners */
+}
+
+
