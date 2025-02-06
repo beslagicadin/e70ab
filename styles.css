@@ -75,7 +75,7 @@ h3 {
     align-items: center;
     background-color: #ffffff;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: flex;
     justify-content: center;
     margin: 20px 10%;
@@ -83,18 +83,18 @@ h3 {
 }
 
 .flex-container a {
-    margin-right: 20px; /* Space between logos */
+    margin-right: 20px;
 }
 
 .flex-container img {
-    height: 150px; /* Adjust height as needed */
-    border-radius: 10px; /* Optional: Rounded corners */
+    height: 150px;
+    border-radius: 10px;
 }
 
 .interests, .awards {
     background-color: #ffffff;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: 20px 10%;
     padding: 10px 20px;
 }
@@ -152,7 +152,11 @@ h3 {
     color: #f9cc0b;
     text-decoration: none;
 }
-#t_bio.biodiv {background-color:#FFFFFF}
+
+#t_bio.biodiv {
+    background-color: #FFFFFF
+}
+
 .radio-club-container {
     display: flex;
     align-items: center; /* Align items vertically in the center */
@@ -185,6 +189,7 @@ h3 {
     background-color: #ddd; /* Color of the separator line */
     height: 100%; /* Stretch to match height of items */
 }
+
 .radio-club-item a img {
     height: 150px; /* Adjust height as needed */
     border-radius: 10px; /* Optional: Rounded corners */
