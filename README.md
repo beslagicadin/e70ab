@@ -8,6 +8,10 @@ This repository contains the info page for E70AB, providing details about my HAM
 - Images and details about my HAM radio setup
 - Contact information
 
+## Live Demo
+
+The page is hosted on GitHub Pages: [https://beslagicadin.github.io/e70ab/](https://beslagicadin.github.io/e70ab/)
+
 ## Getting Started
 To view the page, simply clone this repository and open the `index.html` file in your preferred web browser:
 
@@ -28,4 +32,8 @@ If you would like to contribute or suggest improvements, feel free to open an is
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries, you can reach me via my QRZ page [E70AB on QRZ](https://www.qrz.com/db/E70AB) or email [beslagicadin@gmail.com](mailto:beslagicadin@gmail.com).
+
+For inquiries, you can reach me via:
+- QRZ page: [E70AB on QRZ](https://www.qrz.com/db/E70AB)
+- Email: [beslagicadin@gmail.com](mailto:beslagicadin@gmail.com)
+- Portfolio: [beslagicadin.vercel.app](https://beslagicadin.vercel.app)
