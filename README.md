@@ -22,8 +22,8 @@ open index.html  # or double-click to open in browser
 ```
 
 ## Technologies Used
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ## Contributions
 If you would like to contribute or suggest improvements, feel free to open an issue or submit a pull request.
