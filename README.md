@@ -29,7 +29,7 @@ open index.html  # or double-click to open in browser
 If you would like to contribute or suggest improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This software is all rights reserved. Use, copying, modification, or distribution requires prior written permission from the author. See the [LICENSE](LICENSE) file for full terms or contact [beslagicadin@gmail.com](mailto:beslagicadin@gmail.com) to request permission.
 
 ## Contact
 
